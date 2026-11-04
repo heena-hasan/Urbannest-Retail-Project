@@ -40,3 +40,5 @@ Project planning and requirements gathering.
 Requirements gathering and initial project planning.
 
 UrbanNest is an online retail platform designed to provide a seamless shopping experience.
+
+Homepage feature: Promotional banner for UrbanNest seasonal offers.
