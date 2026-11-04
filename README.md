@@ -18,3 +18,23 @@ The project includes product browsing, shopping cart functionality, checkout, pa
 ## Project Status
 
 Project planning and requirements gathering.
+
+## Initial Feature Requirements
+
+| Feature ID | Feature | Description | Priority |
+|---|---|---|---|
+| FR-001 | User Registration | Customers can create accounts. | High |
+| FR-002 | Product Listing | Customers can browse available products. | High |
+| FR-003 | Shopping Cart | Customers can add and remove products. | High |
+| FR-004 | Checkout | Customers can place orders. | High |
+| FR-005 | Order Tracking | Customers can view order status. | Medium |
+
+## Project Team
+
+- Project Manager: Heena
+- Development Team: To be assigned
+- QA Team: To be assigned
+
+## Current Phase
+
+Requirements gathering and initial project planning.
