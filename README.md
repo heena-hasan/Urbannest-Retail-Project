@@ -38,3 +38,5 @@ Project planning and requirements gathering.
 ## Current Phase
 
 Requirements gathering and initial project planning.
+
+UrbanNest is an online retail platform designed to provide a seamless shopping experience.
