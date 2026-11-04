@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UrbanNest | Everyday Living</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <a class="logo" href="#">UrbanNest</a>
+
+    <nav aria-label="Main navigation">
+      <a href="#home">Home</a>
+      <a href="#products">Shop</a>
+      <a href="#about">About</a>
+    </nav>
+
+    <div class="cart">
+      Cart (<span id="cart-count">0</span>)
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-content">
+        <p class="eyebrow">MADE FOR EVERYDAY LIVING</p>
+        <h1>Make room for better living.</h1>
+        <p>
+          Discover thoughtfully selected essentials
+          that make your everyday spaces feel special.
+        </p>
+        <a class="primary-button" href="#products">
+          Explore collection
+        </a>
+      </div>
+
+      <div class="hero-art" aria-label="Home decor illustration">
+        <span>🏡</span>
+      </div>
+    </section>
+
+    <section class="products-section" id="products">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">OUR COLLECTION</p>
+          <h2>Featured products</h2>
+        </div>
+        <p>Simple things. Better spaces.</p>
+      </div>
+
+      <div class="product-grid">
+        <article class="product-card">
+          <div class="product-image image-one">🪴</div>
+          <h3>Terracotta Planter</h3>
+          <p>₹599</p>
+          <button class="add-button" data-add-to-cart>
+            Add to cart
+          </button>
+        </article>
+
+        <article class="product-card">
+          <div class="product-image image-two">🕯️</div>
+          <h3>Ambient Candle</h3>
+          <p>₹399</p>
+          <button class="add-button" data-add-to-cart>
+            Add to cart
+          </button>
+        </article>
+
+        <article class="product-card">
+          <div class="product-image image-three">🏺</div>
+          <h3>Ceramic Vase</h3>
+          <p>₹799</p>
+          <button class="add-button" data-add-to-cart>
+            Add to cart
+          </button>
+        </article>
+      </div>
+    </section>
+
+    <section class="about-section" id="about">
+      <h2>A little more thoughtful. A little more you.</h2>
+      <p>
+        UrbanNest brings together everyday products
+        designed to make your home feel more personal.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 UrbanNest. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
